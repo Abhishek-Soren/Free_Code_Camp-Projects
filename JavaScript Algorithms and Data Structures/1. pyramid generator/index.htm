@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Abhishek Soren" />
+    <title>Pyramid Generator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1><mark>Let's create a Pyramid Generator.</mark></h1>
+    <h2>Open Console to see the output for the JavaScript code.</h2>
+    <h2>The code in the external JS file is as follows.</h2>
+
+    <pre>
+      <code>
+        // Value list 1
+        // const character = "!";
+        // const count = 10;
+        // const rows = [];
+        // let inverted = false;
+
+        // Value list 2
+        const character = "#";
+        const count = 8;
+        const rows = [];
+        let inverted = true;
+
+        function padRow(rowNumber, rowCount) {
+          return (
+            " ".repeat(rowCount - rowNumber) +
+            character.repeat(2 * rowNumber - 1) +
+            " ".repeat(rowCount - rowNumber)
+          );
+        }
+
+        for (let i = 1; i <= count; i++) {
+          if (inverted) {
+            rows.unshift(padRow(i, count));
+          } else {
+            rows.push(padRow(i, count));
+          }
+        }
+
+        let result = "";
+
+        for (const row of rows) {
+          result = result + "\n" + row;
+        }
+
+        console.log(result);
+
+      </code>
+    </pre>
+
+    <script src="./script.js" async defer></script>
+  </body>
+</html>
