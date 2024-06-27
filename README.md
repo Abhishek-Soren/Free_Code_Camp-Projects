@@ -8,3 +8,6 @@ Solutions to the Free_Code_Camp Projects.
 4. Registration Form : https://registration-form-new.netlify.app/
 5. Survey Form : https://survey-form-new-abhishek-soren.netlify.app/
 6. Rothko Painting : https://rothiko-painting.netlify.app/
+
+## JavaScript Algorithms and Data Structures
+1. Pyramid Generator : https://pyramid-generator.netlify.app/
