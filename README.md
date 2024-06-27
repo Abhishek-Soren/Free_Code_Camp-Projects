@@ -7,3 +7,4 @@ Solutions to the Free_Code_Camp Projects.
 3. Set of COlored Markers : https://set-of-colored-markers-new.netlify.app/
 4. Registration Form : https://registration-form-new.netlify.app/
 5. Survey Form : https://survey-form-new-abhishek-soren.netlify.app/
+6. Rothko Painting : https://rothiko-painting.netlify.app/
