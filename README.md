@@ -11,3 +11,4 @@ Solutions to the Free_Code_Camp Projects.
 
 ## JavaScript Algorithms and Data Structures
 1. Pyramid Generator : https://pyramid-generator.netlify.app/
+2. Gradebook App : https://gradebook-app.netlify.app/
