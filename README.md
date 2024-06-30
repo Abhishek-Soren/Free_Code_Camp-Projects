@@ -12,6 +12,7 @@ Solutions to the Free_Code_Camp Projects.
 6. Rothko Painting : https://rothiko-painting.netlify.app/
 7. Photo Gallery : https://cat-photo-gallery-new.netlify.app/
 8. Nutrition Label : https://nutrition-label-new.netlify.app/
+9. Accessibility Quiz :
 
 ## JavaScript Algorithms and Data Structures
 
