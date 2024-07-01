@@ -15,6 +15,7 @@ Solutions to the FreeCodeCamp Projects.
 9. [Accessibility Quiz](https://accessibility-quiz-abhishek.netlify.app "An online quiz about accessibility")
 10. [Tribute Page](https://tribute-page-abhishek-soren.netlify.app/ "A tribute page")
 11. [Balance Sheet](https://balance-sheet-new.netlify.app "An online balance sheet")
+12. [Cat Painting](https://cat-painitng.netlify.app/ "A cat painitng using HTML and CSS")
 
 ## JavaScript Algorithms and Data Structures
 
