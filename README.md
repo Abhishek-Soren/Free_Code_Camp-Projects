@@ -21,3 +21,4 @@ Solutions to the FreeCodeCamp Projects.
 
 1. [Pyramid Generator](https://pyramid-generator.netlify.app "A tool to generate pyramid patterns")
 2. [Gradebook App](https://gradebook-app.netlify.app "An application to manage and track student grades")
+3. [Role Playing Game]( "A simple Role Playing Game using JS")
