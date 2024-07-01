@@ -13,7 +13,7 @@ Solutions to the FreeCodeCamp Projects.
 7. [Photo Gallery](https://cat-photo-gallery-new.netlify.app "A photo gallery featuring cats")
 8. [Nutrition Label](https://nutrition-label-new.netlify.app "A sample nutrition label")
 9. [Accessibility Quiz](https://accessibility-quiz-abhishek.netlify.app "An online quiz about accessibility")
-10. [Tribute Page](https://google.com "A tribute page")
+10. [Tribute Page](https://tribute-page-abhishek-soren.netlify.app/ "A tribute page")
 11. [Balance Sheet](https://balance-sheet-new.netlify.app "An online balance sheet")
 
 ## JavaScript Algorithms and Data Structures
