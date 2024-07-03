@@ -17,6 +17,7 @@ Solutions to the FreeCodeCamp Projects.
 11. [Balance Sheet](https://balance-sheet-new.netlify.app "An online balance sheet")
 12. [Cat Painting](https://cat-painitng.netlify.app/ "A cat painitng using HTML and CSS")
 13. [Piano](https://piano-abhishek-soren.netlify.app/ "A simple piano designed using HTML and CSS")
+14. [City Skyline](https://city-skyline-abhishek-soren.netlify.app/ "A city skyline painting designed using only HTML and CSS")
 
 ## JavaScript Algorithms and Data Structures
 
