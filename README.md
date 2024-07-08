@@ -20,10 +20,10 @@ Solutions to the FreeCodeCamp Projects.
 14. [Technical Documentation Page](https://technical-documentation-abhishek-sore.netlify.app/ "An example of a technical documentation")
 15. [City Skyline](https://city-skyline-abhishek-soren.netlify.app/ "A city skyline painting designed using only HTML and CSS")
 16. [Magazine](https://magazine-abhishek-soren.netlify.app/ "A simple magazine design")
-17. [Product Landing Page]( "A simple froduct landing page for a product")
+17. [Product Landing Page](https://product-landing-page-abhi.netlify.app/ "A simple product landing page for a product")
 18. [Ferris Wheel](https://ferris-wheel-new.netlify.app/ "An animated ferris wheel")
-19. [Penguin]("A penguin painting using only HTML and CSS")
-20. [Personal Portfolio]("A portfolio designed using HTML and CSS")
+19. [Penguin](https://penguin-abhi.netlify.app/ "A penguin waving 'Hello' using only HTML and CSS")
+20. [Personal Portfolio](https://personal-portfolio-abhishek.netlify.app/ "A personal portfolio website")
 
 ## JavaScript Algorithms and Data Structures
 
