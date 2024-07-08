@@ -3,8 +3,137 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <meta name="author" content="Abhishek Soren" />
+    <title>Original Trombones</title>
     <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://kit.fontawesome.com/d677120039.js" crossorigin="anonymous"></script>
   </head>
-  <body></body>
+  <body>
+    <header id="header">
+      <a href="#top">
+        <img
+          src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png"
+          alt="logo"
+          id="header-img"
+        />
+      </a>
+      <nav id="nav-bar">
+        <a href="#Features" class="nav-link">Features</a>
+        <a href="#Video" class="nav-link">How It Works</a>
+        <a href="#Pricing" class="nav-link">Pricing</a>
+      </nav>
+    </header>
+
+    <main id="main-body">
+      <section class="main-section">
+        <h1>Handcrafted, home-made masterpieces</h1>
+        <form id="form" action="https://www.freecodecamp.com/email-submit" method="post">
+          <input type="email" name="email" id="email" placeholder="Enter your email address" />
+          <input type="submit" value="Get Started" />
+        </form>
+      </section>
+
+      <section class="main-section" id="Features">
+        <h1>Features</h1>
+        <article class="feature">
+          <div class="feature-img">
+            <i class="fa-solid fa-fire-flame-curved"></i>
+          </div>
+          <div class="feature-text">
+            <h2>Premium Materials</h2>
+            <p>
+              Our trombones use the shiniest brass which is sourced locally. This will increase the
+              longevity of your purchase.
+            </p>
+          </div>
+        </article>
+        <article class="feature">
+          <div class="feature-img">
+            <i class="fa-solid fa-truck"></i>
+          </div>
+          <div class="feature-text">
+            <h2>Fast Shipping</h2>
+            <p>
+              We make sure you recieve your trombone as soon as we have finished making it. We also
+              provide free returns if you are not satisfied.
+            </p>
+          </div>
+        </article>
+        <article class="feature">
+          <div class="feature-img">
+            <i class="fa-solid fa-star"></i>
+          </div>
+          <div class="feature-text">
+            <h2>Quality Assurance</h2>
+            <p>
+              For every purchase you make, we will ensure there are no damages or faults and we will
+              check and test the pitch of your instrument.
+            </p>
+          </div>
+        </article>
+      </section>
+
+      <section class="main-section" id="Video">
+        <h1>Video Demonstration</h1>
+        <article class="video">
+          <iframe src="https://youtube.com/embed/y8Yv4pnO7qc" frameborder="0"></iframe>
+        </article>
+      </section>
+
+      <section class="main-section" id="Pricing">
+        <h1>Pricing</h1>
+        <article class="prices">
+          <div class="price">
+            <h2>TENOR TROMBONE</h2>
+            <h2 class="price-tag">$600</h2>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <button type="button">SELECT</button>
+          </div>
+          <div class="price">
+            <h2>BASS TROMBONE</h2>
+            <h2 class="price-tag">$900</h2>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <button type="button">SELECT</button>
+          </div>
+          <div class="price">
+            <h2>VALVE TROMBONE</h2>
+            <h2 class="price-tag">$1200</h2>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <p>Lorem Ipsum</p>
+            <button type="button">SELECT</button>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <nav id="footer-bar">
+        <a href="#Features" class="nav-link">Privacy</a>
+        <a href="#Video" class="nav-link">Terms & Conditions</a>
+        <a href="mailto:abhisheksoren100@gmail.com" class="nav-link">Contact</a>
+      </nav>
+      <span
+        >&copy; Copyright <a href="mailto:abhisheksoren100@gmail.com">Abhishek Soren</a> - All
+        Rights Reserved</span
+      >
+    </footer>
+  </body>
 </html>
