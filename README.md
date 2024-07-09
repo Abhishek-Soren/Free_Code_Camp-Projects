@@ -1,8 +1,11 @@
 # FreeCodeCamp-Projects
 
 Solutions to the FreeCodeCamp Projects.
+### 1. [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/Abhishek_Soren/responsive-web-design "Responsive Web Design Certificate")
+![Responsive Web Design Certificate](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/assets/57648842/c34f0aa0-de83-4f7d-9873-cc8ab0fa2fe8)
 
-## Responsive Web Design
+
+## Responsive Web Design Projects
 
 1. [Cat Photo App](https://cat-photo-app-new.netlify.app "A website showcasing cat photos")
 2. [Cafe Menu](https://cafe-menu-new.netlify.app "An online menu for a cafe")
@@ -25,7 +28,7 @@ Solutions to the FreeCodeCamp Projects.
 19. [Penguin](https://penguin-abhi.netlify.app/ "A penguin waving 'Hello' using only HTML and CSS")
 20. [Personal Portfolio](https://personal-portfolio-abhishek.netlify.app/ "A personal portfolio website")
 
-## JavaScript Algorithms and Data Structures
+## JavaScript Algorithms and Data Structures Projects
 
 1. [Pyramid Generator](https://pyramid-generator.netlify.app "A tool to generate pyramid patterns")
 2. [Gradebook App](https://gradebook-app.netlify.app "An application to manage and track student grades")
