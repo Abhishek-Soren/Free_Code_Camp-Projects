@@ -8,6 +8,7 @@
 * {
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  text-align: center;
 }
 
 body {
@@ -15,11 +16,38 @@ body {
   width: 100vw;
 }
 
+#header {
+  height: 70px;
+  max-width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 24px;
+  background-color: lightgray;
+  position: sticky;
+  top: 0%;
+}
+
+#header-img {
+  height: 50px;
+}
+
+#nav-bar, #footer-bar {
+  width: 500px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+
 #welcome-section {
   height: 100vh;
   width: 100vw;
   background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
-  text-align: center;
+
 }
 
 #welcome-title {
@@ -33,7 +61,7 @@ body {
   color: var(--main-red)
 }
 
-#projects {
+#project-container {
   width: 80%;
   display: flex;
   flex-wrap: wrap;
