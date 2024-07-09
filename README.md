@@ -2,6 +2,8 @@
 
 Solutions to the FreeCodeCamp Projects.
 ### 1. [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/Abhishek_Soren/responsive-web-design "Responsive Web Design Certificate")
+![Responsive Web Design Certificate](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/assets/57648842/c34f0aa0-de83-4f7d-9873-cc8ab0fa2fe8)
+
 
 ## Responsive Web Design
 
