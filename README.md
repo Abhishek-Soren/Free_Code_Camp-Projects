@@ -33,7 +33,10 @@ Solutions to the FreeCodeCamp Projects.
 
 ## JavaScript Algorithms and Data Structures Projects
 
-1. [Pyramid Generator](https://pyramid-generator.netlify.app "A tool to generate pyramid patterns")
-2. [Gradebook App](https://gradebook-app.netlify.app "An application to manage and track student grades")
-3. [Role Playing Game](https://role-playing-game-abhishke-soren.netlify.app/ "A simple Role Playing Game using JS")
-4. [Random Background Color changer](https://random-background-color-changer-abhi.netlify.app/ "A Random Background Color changer")
+|  #  | Project                                                                                                     | Live Demo                                                                             |
+| :-: | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 01  | [Pyramid Generator](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/1.%20pyramid%20generator))            | [Live Demo](https://pyramid-generator.netlify.app)                                    |
+| 02  | [Gradebook App](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/2.%20gradebook%20app))      | [Live Demo](https://gradebook-app.netlify.app)                                        |
+| 03  | [Role Playing Game](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/3.%20role%20playing%20game)) | [Live Demo](https://role-playing-game-abhishke-soren.netlify.app/)                     |
+| 04  | [Random Background Color Changer](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/4.%20random%20background%20color%20changer) | [Live Demo](https://random-background-color-changer-abhi.netlify.app/) |
+
