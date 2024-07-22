@@ -35,8 +35,8 @@ Solutions to the FreeCodeCamp Projects.
 
 |  #  | Project                                                                                                     | Live Demo                                                                             |
 | :-: | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 01  | [Pyramid Generator](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/1.%20pyramid%20generator))            | [Live Demo](https://pyramid-generator.netlify.app)                                    |
-| 02  | [Gradebook App](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/2.%20gradebook%20app))      | [Live Demo](https://gradebook-app.netlify.app)                                        |
-| 03  | [Role Playing Game](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/3.%20role%20playing%20game)) | [Live Demo](https://role-playing-game-abhishke-soren.netlify.app/)                     |
+| 01  | [Pyramid Generator](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/1.%20pyramid%20generator)            | [Live Demo](https://pyramid-generator.netlify.app)                                    |
+| 02  | [Gradebook App](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/2.%20gradebook%20app)      | [Live Demo](https://gradebook-app.netlify.app)                                        |
+| 03  | [Role Playing Game](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/3.%20role%20playing%20game) | [Live Demo](https://role-playing-game-abhishke-soren.netlify.app/)                     |
 | 04  | [Random Background Color Changer](https://github.com/Abhishek-Soren/Free_Code_Camp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/4.%20random%20background%20color%20changer) | [Live Demo](https://random-background-color-changer-abhi.netlify.app/) |
 
